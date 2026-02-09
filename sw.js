@@ -1,10 +1,11 @@
-const CACHE_NAME = 'voice-todo-v1';
+const CACHE_NAME = 'voice-todo-v2';
 const ASSETS = [
     '/',
     '/index.html',
     '/manifest.json',
-    '/icon-192.png',
-    '/icon-512.png'
+    '/icon-192.svg',
+    '/icon-512.svg',
+    '/icon-maskable.svg'
 ];
 
 // Install Service Worker
